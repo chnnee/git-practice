@@ -1,0 +1,132 @@
+    1  pwd
+    2  ls
+    3  cd Documents
+    4  pwd
+    5  ls
+    6  cd ..
+    7  ls/bin
+    8  ls-l
+    9  pwd
+   10  ls
+   11  chnnee
+   12  ls
+   13  pwd
+   14  ls
+   15  cd Documents
+   16  ls
+   17  ls
+   18  pwd
+   19  ls
+   20  cd /
+   21  ls
+   22  ls /usr
+   23  cd ~/Documents
+   24  ls
+   25  cd C;
+   26  cd C/
+   27  cd
+   28  ls
+   29  ls -al
+   30  cd etc/
+   31  cd mnt
+   32  ls
+   33  cd /mnt
+   34  cd Downloads/
+   35  ls
+   36  cd Onedrive
+   37  cd
+   38  cd oneDrive
+   39  ls
+   40  cd 문서
+   41  ㅣㄴ
+   42  ls
+   43  cd chenne
+   44  cd chnnee
+   45  ls
+   46  clear
+   47  pwd
+   48  cd 
+   49  pwd
+   50  ls
+   51  cd Documents
+   52  ls
+   53  cd chnnee
+   54  ls
+   55  cp chnnee
+   56  ch --help
+   57  cp --help
+   58   ls Documents
+   59  cd ..
+   60  cp chnnee
+   61  cp chnnee copy chnnee
+   62  cp chnnee backup_chnnee
+   63  pwd
+   64  cd Documents
+   65  cd chnnee
+   66  cat chnnee
+   67  ls chnnee
+   68  cd practice.txt
+   69  cd practice
+   70  cat chnnee
+   71  pwd
+   72  pwd
+   73  ls ..
+   74  ls .
+   75  cd practice.txt
+   76  cd chnnee
+   77  ls chnnee
+   78  ls-lh chnnee
+   79  cat practice.txt
+   80  cp chnnee
+   81  cp practice.txt
+   82  ls > chnnee
+   83  ls > practice
+   84  ls
+   85  ls
+   86  ls-lh
+   87  lh-lh
+   88  ls > practice.txt practice2.txt
+   89  sort prac2.txt
+   90  ls | wc-1
+   91  ls|wc-l
+   92  ls|wc-1
+   93  ls
+   94  ls|wc-1
+   95  wc-1
+   96  ls-lh|less
+   97  ls|wc-1
+   98  cp-r
+   99  cp-r prac2
+  100  cp prac2
+  101  mkdir 
+  102  mkdir chnnee
+  103  ls
+  104  ls-lh
+  105  ls
+  106  .
+  107  .chnnee
+  108  .prac2
+  109  ls .
+  110  ls ..
+  111  ls .
+  112  ls-l
+  113  ls-1
+  114  ls-lh
+  115  ls-l
+  116  which ls
+  117  ls-l/bin/ls
+  118  ls-l
+  119  ls-l>chnnee
+  120  ls-l
+  121  ls -l
+  122  chmod 700
+  123  chmod 700 prac2
+  124  chmod 700 prac2.txt
+  125  ls -l
+  126  chmod 644 prac2.txt
+  127  ls -lh
+  128  nano myscript.sh
+  129  sh myscript.sh
+  130  history
+  131  nano history.sh
+  132  history > history.txt
