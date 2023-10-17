@@ -1,2 +1,2 @@
 # git-practice
-hello
+hello this is chnnee repository
